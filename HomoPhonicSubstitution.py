@@ -10,6 +10,7 @@ def generate_homophonic_table(key):
 
     table = {}
     reverse_table = {}
+    
     index = 0
 
     for letter in letters:
